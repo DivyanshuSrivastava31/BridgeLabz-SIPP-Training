@@ -1,0 +1,6 @@
+university1 : University
+├── departments →
+     │ └── dept1 : Department ["CSE"]
+              └── faculties →
+                     ├── faculty1 : Faculty ["Dr. Sharma"]
+                     └── faculty2 : Faculty ["Dr. Khan"]
