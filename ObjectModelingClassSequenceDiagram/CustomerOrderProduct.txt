@@ -1,0 +1,6 @@
+customer1 : Customer ["Ayush"]
+  └── orders →
+       └── order1 : Order
+             └── products →
+                    ├── prod1 : Product ["Laptop"]
+                    └── prod2 : Product ["Mouse"]
