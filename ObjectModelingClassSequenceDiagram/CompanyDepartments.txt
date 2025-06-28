@@ -1,0 +1,9 @@
+company1 : Company ["TechCorp"]
+└── departments →
+      ├── dept1 : Department ["HR"]
+      │ └── employees →
+              │ └── emp1 : Employee ["John"]
+└── dept2 : Department ["IT"]
+      └── employees →
+              ├── emp2 : Employee ["Alice"]
+              └── emp3 : Employee ["Bob"]
