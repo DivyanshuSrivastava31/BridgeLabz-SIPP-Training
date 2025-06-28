@@ -1,0 +1,12 @@
+hospital1 : Hospital
+├── doctors →
+       ├── doc1 : Doctor ["Dr. Meena"]
+       └── doc2 : Doctor ["Dr. Ravi"]
+             └── patients →
+                    ├── pat1 : Patient ["Rohit"]
+                    └── pat2 : Patient ["Pooja"]
+
+
+Consultations:
+doc1 → pat1
+doc2 → pat1, pat2
