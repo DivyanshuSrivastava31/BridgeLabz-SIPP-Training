@@ -1,0 +1,9 @@
+school1 : School
+└── students →
+├── stu1 : Student ["Amit"]
+│     └── courses →
+│     ├── course1 : Course ["Maths"]
+│     └── course2 : Course ["Science"]
+└── stu2 : Student ["Neha"]
+      └── courses →
+      └── course2 : Course ["Science"]
