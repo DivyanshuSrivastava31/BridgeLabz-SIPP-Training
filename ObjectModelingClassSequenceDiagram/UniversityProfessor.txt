@@ -1,0 +1,5 @@
+student1 : Student ["Sneha"]
+   └── enrolledCourses →
+           └── course1 : Course ["Data Structures"]
+                 ↑
+                 └── professor1 : Professor ["Prof. Joshi"]
