@@ -1,0 +1,4 @@
+library1 : Library
+└── books →
+      ├── book1 : Book ["1984", "George Orwell"]
+      └── book2 : Book ["Brave New World", "Aldous Huxley"]
