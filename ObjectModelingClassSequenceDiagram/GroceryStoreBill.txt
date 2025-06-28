@@ -1,0 +1,49 @@
+CLASS DIAGRAM :
+
+
+
+
++------------------+           *<|---+----------------+ +-------------+
+|     Customer     | composition        | Product | BillGenerator |
++------------------+                 +---------+---------------------+
+| - name: String |                        | - name: String |
+| - id: int |                             | - quantity: double |
+| - products: List |                      | - pricePerUnit: double |
++------------------+                 +-----------------------------+
+| +getProducts() |
++------------------+                 +-----------------------------+
+                                          | +calculateTotal() |
+                                     +-----------------------------+
+
+
+
+
+OBJECT DIAGRAM : 
+
+
+
+customer1 : Customer ["Alice"]
+   └── purchasedProducts →
+          ├── product1 : Product ["Apples"]
+          │     ├── quantity = 2 kg
+          │     └── pricePerUnit = $3
+          └── product2 : Product ["Milk"]
+                ├── quantity = 1 liter
+                └── pricePerUnit = $2
+          └── billGenerator1 : BillGenerator
+                └── computes total based on purchased products
+
+
+
+
+
+SEQUENCE DIAGRAM : 
+
+
+
+
+
+Customer        → BillGenerator   : checkout(products)
+BillGenerator   → Product[]       : retrieve price and quantity
+BillGenerator   → BillGenerator   : calculateTotal()
+BillGenerator   → Customer        : return total amount
