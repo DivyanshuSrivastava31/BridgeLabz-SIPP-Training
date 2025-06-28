@@ -1,0 +1,6 @@
+bank1 : Bank ["SBI"]
+↑            ↑
+|            |
+customer1  customer2
+: Customer : Customer
+["Ayush"]  ["Riya"]
