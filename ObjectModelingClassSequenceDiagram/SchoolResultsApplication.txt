@@ -1,0 +1,42 @@
+CLASS DIAGRAM :
+
+ 
++-----------------+           +----------------+      +--------------------+
+    | Student |    <>--------->  | Subject |           | GradeCalculator |
++-----------------+           +----------------+      +--------------------+
+ | - name: String |           | - name: String |               | |
+  | - id: int |                 | - marks: int |               | |
++-----------------+           +----------------+      +--------------------+
+| +getSubjects() |                                    | +calculateGrade() |
++-----------------+                                   +--------------------+
+
+
+
+
+OBJECT DIAGRAM :
+
+
+
+student1 : Student ["John"]
+   └── subjects →
+          ├── subject1 : Subject ["Maths"]
+                 └── marks = 90
+          └── subject2 : Subject ["Science"]
+                 └── marks = 85
+          └── gradeCalculator1 : GradeCalculator
+                 └── calculates grade based on subject marks
+
+
+
+
+
+
+
+SEQUENCE DIAGRAM :
+
+
+
+Student         → GradeCalculator : requestGrade(subjects)
+GradeCalculator → Subject[]       : get marks
+GradeCalculator → GradeCalculator : calculateGrade()
+GradeCalculator → Student         : return grade/result
