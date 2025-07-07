@@ -55,30 +55,49 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/Core_java/Handling_Strings)
 
 ---
-
 ## OOPS Branch 🧱
 
 ### 📅 20/06/25 (Fri) – Day 1 – Classes & Objects  
-*Topics*: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java  
+Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/JavaClassAndObject)
 
 ---
 
 ### 📅 23/06/25 (Mon) – Day 2 – Constructors, Variables, Modifiers  
-*Topics*: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers  
+Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/JavaConstructorAndVariables)
 
 ---
 
 ### 📅 24/06/25 (Tue) – Day 3 – Java Keywords  
-*Topics*: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each  
+Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/StaticIntFinalKeywords)
 
 ---
 
 ### 📅 25/06/25 (Tue) – Day 4 – Diagrams & Modelling  
-*Topics*: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
+Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/ObjectModelingClassSequenceDiagram)
+
+---
+
+### 📅 01/07/25 (Mon) – Day 5 – Class Inheritance  
+Topics: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, & Access Modifiers and Inheritance  
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/ClassInheritance)
+
+---
+
+### 📅 02/07/25 (Tue) – Day 5 – Encapsulation And Polymorphism 
+Topics: - Encapsulation, Polymorphism, Interface, & Abstract Classes  
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/EncapsulationPolymorphism)
+
+---
+
+## DSA Branch 📂
+
+### 📅 04/07/25 (Thu) – Day 5 – Linked Lists 
+Topics: - Singly Linked list, Doubly Linked list, Circular Linked list implementations  
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
 
 ---
 
