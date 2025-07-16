@@ -87,7 +87,7 @@ Topics: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarc
 
 ---
 
-### 📅 02/07/25 (Tue) – Day 5 – Encapsulation And Polymorphism 
+### 📅 02/07/25 (Tue) – Day 6 – Encapsulation And Polymorphism 
 Topics: - Encapsulation, Polymorphism, Interface, & Abstract Classes  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/oops_java/EncapsulationPolymorphism)
 
@@ -95,11 +95,34 @@ Topics: - Encapsulation, Polymorphism, Interface, & Abstract Classes
 
 ## DSA Branch 📂
 
-### 📅 04/07/25 (Thu) – Day 5 – Linked Lists 
+### 📅 04/07/25 (Thu) – Day 1 – Linked Lists 
 Topics: - Singly Linked list, Doubly Linked list, Circular Linked list implementations  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
 
 ---
 
+### 📅 08/07/25 (Mon) – Day 2 – Stack , Queue, HashMap and Hashing Function 
+Topics: - Stack , Queue, HashMap and Hashing Function
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/StacksQueuesHashMapsHashFunctions)
+
+---
+
+### 📅 09/07/25 (Tue) – Day 3 – Sorting Algorithms
+Topics:-Bubble Sort,insertion Sort,Merge Sort,Quick sort
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/SortingTechniques)
+
+---
+
+### 📅 11/07/25 (Thu) – Day 4 – Searching Algorithms 
+Topics: -  Linear and Binary Search 
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/SearchingTechniques)
+
+---
+
+### 📅 12/07/25 (Fri) – Day 5 –  Algorithm's Runtime Analysis & Big-O Notation
+Topics: - General Algorithm Best Practices,Time and space Complexity Optimization  
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysisAndBigONotation)
+
+---
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
