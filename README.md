@@ -124,5 +124,11 @@ Topics: - General Algorithm Best Practices,Time and space Complexity Optimizatio
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysisAndBigONotation)
 
 ---
+
+### 📅 21/07/25 (Mon) – Day 6 –  Java Generics
+Topics: - Introduction to Generics,Type Parameters,Generic Classes,Generic Methods,Bounded Type Parameters,Wildcards  
+🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/DSA/javaGenerics)
+
+---
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
