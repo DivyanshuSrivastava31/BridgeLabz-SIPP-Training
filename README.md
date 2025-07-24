@@ -131,9 +131,13 @@ Topics: - General Algorithm Best Practices,Time and space Complexity Optimizatio
 Topics: - Introduction to Generics,Type Parameters,Generic Classes,Generic Methods,Bounded Type Parameters,Wildcards  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/feature/generics_and_collections/javaGenerics)
 
+---
+
 ### 📅 24/07/25 (Thu) – Day 2 –  Collections
 Topics: - Overview of Collections Framework,What is the Collections Framework?,Hierarchy of Collections Framework,List Interface and Implementing Classes,Set Interface and Implementing Classes,Queue and Deque Interfaces,Map Interface and Its Implementations,comparison of Different Implementations,Real-World Use Cases and Best Practices.  
 🔗 [Code](https://github.com/DivyanshuSrivastava31/BridgeLabz-SIPP-Training/tree/feature/generics_and_collections/Collections)
+
+---
 
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
